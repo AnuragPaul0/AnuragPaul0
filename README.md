@@ -1,6 +1,6 @@
 - 👋 Hi!
 
-  ![](https://komarev.com/ghpvc/?username=AnuragPaul0&label=Profile+Views&color=red&style=plastic) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragPaul0&layout=compact&theme=dark&HTML=000000)
+  ![](https://komarev.com/ghpvc/?username=AnuragPaul0&label=Profile+Views&color=red&style=plastic) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragPaul0&layout=compact&theme=dark&html=000000)
 <!--- , I’m Anurag Paul 0 not working
 bg_color=000
 &scss=222222 html=00000green&matlab=
