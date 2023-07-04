@@ -1,4 +1,4 @@
-- 👋 Hi!
+# 👋 Hi!
 
   ![](https://komarev.com/ghpvc/?username=AnuragPaul0&label=Profile+Views&color=red&style=plastic)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragPaul0&theme=dark&jupyter%20notebook_color=blue&html=ff2244&css=00000&scss=222222&layout=compact)
 <!--- , I’m Anurag Paul 0 not working
